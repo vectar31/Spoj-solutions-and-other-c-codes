@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1424866490 source:c:\users\vectar\documents\c++\mflar10\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+
+1434609637 source:c:\users\chodu baklund\documents\c++\mflar10\main.cpp
+	<iostream>
+	<cstdio>
+	<string>
+	<sstream>
+

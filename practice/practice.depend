@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1427128423 source:c:\users\vectar\documents\c++\practice\main.cpp
+	<iostream>
+	<cmath>
+
+1428335611 source:c:\users\chodu baklund\documents\c++\practice\main.cpp
+	<iostream>
+	<cmath>
+	<algorithm>
+	<sstream>
+	<cstdlib>
+	<cstdio>
+

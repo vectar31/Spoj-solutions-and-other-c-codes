@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1431889702 source:c:\users\chodu baklund\documents\c++\ppath\main.cpp
+	<iostream>
+	<cmath>
+	<algorithm>
+	<ctime>
+	<vector>
+	<list>
+	<queue>
+

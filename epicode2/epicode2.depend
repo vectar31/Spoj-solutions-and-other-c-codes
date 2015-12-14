@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1434823026 source:c:\users\chodu baklund\documents\c++\epicode2\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdio>
+

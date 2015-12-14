@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1427038906 source:c:\users\vectar\documents\c++\practice2\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+
+1428340011 source:c:\users\chodu baklund\documents\c++\practice2\main.cpp
+	<cmath>
+	<cstdio>
+	<string>
+	<vector>
+	<iostream>
+	<algorithm>
+

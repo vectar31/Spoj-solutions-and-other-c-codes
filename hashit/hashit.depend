@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1433429070 source:c:\users\chodu baklund\documents\c++\hashit\main.cpp
+	<iostream>
+	<map>
+	<string>
+

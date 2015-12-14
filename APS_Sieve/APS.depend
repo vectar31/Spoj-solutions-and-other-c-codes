@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1418907148 source:c:\users\vectar\documents\c++\aps\main.cpp
+	<iostream>
+
+1437551924 source:c:\users\chodu baklund\documents\c++\aps\main.cpp
+	<cstdio>
+	<iostream>
+
+1438583772 source:c:\users\chodu baklund\documents\c++\aps_sieve\main.cpp
+	<bits/stdc++.h>
+

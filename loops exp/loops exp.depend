@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1423541368 source:c:\users\vectar\documents\c++\loops exp\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+

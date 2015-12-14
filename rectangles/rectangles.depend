@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1419118759 source:c:\users\vectar\documents\c++\rectangles\main.cpp
+	<iostream>
+	<cmath>
+

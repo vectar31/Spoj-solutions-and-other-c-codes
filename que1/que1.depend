@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1434427054 source:c:\users\chodu baklund\documents\c++\que1\main.cpp
+	<iostream>
+	<algorithm>
+	<bits/stdc++.h>
+

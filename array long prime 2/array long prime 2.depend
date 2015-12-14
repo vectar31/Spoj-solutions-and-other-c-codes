@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1425045263 source:c:\users\vectar\documents\c++\array long prime 2\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+

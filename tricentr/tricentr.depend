@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1418981558 source:c:\users\vectar\documents\c++\tricentr\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1434641772 source:c:\users\chodu baklund\documents\c++\codemonk numbertheory\main.cpp
+	<iostream>
+	<cstdio>
+	<map>
+	<algorithm>
+

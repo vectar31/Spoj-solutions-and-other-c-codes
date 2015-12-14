@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1434568381 source:c:\users\chodu baklund\documents\c++\arraysub\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+

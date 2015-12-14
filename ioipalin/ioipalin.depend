@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1432728927 source:c:\users\chodu baklund\documents\c++\ioipalin\main.cpp
+	<iostream>
+	<cstdio>
+	<string>
+

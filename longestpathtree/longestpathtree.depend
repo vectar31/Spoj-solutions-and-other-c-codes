@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1432544101 source:c:\users\chodu baklund\documents\c++\longestpathtree\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<cstdio>
+	<list>
+

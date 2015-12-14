@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1426619406 source:c:\users\vectar\documents\c++\array\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+

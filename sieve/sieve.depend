@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1425633333 source:c:\users\vectar\documents\c++\sieve\main.cpp
+	<iostream>
+	<cmath>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1420910337 source:c:\users\vectar\documents\c++\biased\main.cpp
+	<iostream>
+	<cmath>
+	<algorithm>
+

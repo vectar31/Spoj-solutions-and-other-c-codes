@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1418358376 source:c:\users\vectar\documents\c++\tshow1\main.cpp
+	<iostream>
+	<vector>
+	<cstdio>
+

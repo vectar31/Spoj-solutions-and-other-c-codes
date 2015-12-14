@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1421593914 source:c:\users\vectar\documents\c++\army\main.cpp
+	<iostream>
+	<algorithm>
+

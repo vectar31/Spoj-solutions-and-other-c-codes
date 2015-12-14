@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1432962102 source:c:\users\chodu baklund\documents\c++\sumfour\main.cpp
+	<iostream>
+	<algorithm>
+

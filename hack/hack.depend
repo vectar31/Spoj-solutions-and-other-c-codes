@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1433454750 source:c:\users\chodu baklund\documents\c++\hack\main.cpp
+	<iostream>
+	<string>
+	<cstdio>
+	<algorithm>
+	<iomanip>
+	<queue>
+

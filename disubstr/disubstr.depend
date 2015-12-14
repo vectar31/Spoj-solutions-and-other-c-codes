@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1434734958 source:c:\users\chodu baklund\documents\c++\disubstr\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<string>
+

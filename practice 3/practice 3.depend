@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1424812278 source:c:\users\vectar\documents\c++\practice 3\main.cpp
+	<iostream>
+
+1429807292 source:c:\users\chodu baklund\documents\c++\practice 3\main.cpp
+	<cmath>
+	<cstdio>
+	<string>
+	<vector>
+	<stack>
+	<queue>
+	<iostream>
+	<algorithm>
+
+1428364995 source:c:\users\chodu baklund\documents\c++\practice 3\math.cpp
+	<iostream>
+
+1428364995 c:\users\chodu baklund\documents\c++\practice 3\math.h
+
+1428524508 c:\users\chodu baklund\documents\c++\practice 3\mathmd.h
+

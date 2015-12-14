@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1435428581 source:c:\users\chodu baklund\documents\c++\euler017\main.cpp
+	<iostream>
+	<string.h>
+	<string>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1433244368 source:c:\users\chodu baklund\documents\c++\dquery\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<iomanip>
+	<queue>
+	<stack>
+	<functional>
+

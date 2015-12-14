@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1434824627 source:c:\users\chodu baklund\documents\c++\codestellar\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+

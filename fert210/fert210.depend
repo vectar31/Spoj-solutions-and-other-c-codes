@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1421839066 source:c:\users\vectar\documents\c++\fert210\main.cpp
+	<cstdio>
+	<algorithm>
+	<cstring>
+

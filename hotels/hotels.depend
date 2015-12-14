@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1434558141 source:c:\users\chodu baklund\documents\c++\hotels\main.cpp
+	<iostream>
+	<cmath>
+	<climits>
+

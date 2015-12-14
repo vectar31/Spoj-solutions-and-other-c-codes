@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1421242604 source:c:\users\vectar\documents\c++\candy1\main.cpp
+	<iostream>
+	<algorithm>
+

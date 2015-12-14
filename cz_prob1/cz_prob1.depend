@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1433052139 source:c:\users\chodu baklund\documents\c++\cz_prob1\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+

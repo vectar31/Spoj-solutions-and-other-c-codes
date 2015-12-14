@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1425292260 source:c:\users\vectar\documents\c++\bsttreepractice2\main.cpp
+	<iostream>
+	<cmath>
+	<queue>
+

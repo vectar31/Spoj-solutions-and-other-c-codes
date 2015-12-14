@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1424930887 source:c:\users\vectar\documents\c++\sid exp\main.cpp
+	<iostream>
+	<string>
+

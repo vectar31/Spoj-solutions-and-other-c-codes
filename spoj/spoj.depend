@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1417861873 source:c:\users\vectar\documents\c++\spoj\main.cpp
+	<iostream>
+	<vector>
+	<string>
+

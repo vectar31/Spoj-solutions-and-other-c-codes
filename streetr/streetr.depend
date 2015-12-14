@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1420467224 source:c:\users\vectar\documents\c++\streetr\main.cpp
+	<iostream>
+	<algorithm>
+

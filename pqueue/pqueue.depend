@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1432320081 source:c:\users\chodu baklund\documents\c++\pqueue\main.cpp
+	<iostream>
+	<queue>
+	<cstdio>
+

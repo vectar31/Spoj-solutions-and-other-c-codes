@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1425309259 source:c:\users\vectar\documents\c++\bstpractice\main.cpp
+	<iostream>
+	<cmath>
+	<queue>
+

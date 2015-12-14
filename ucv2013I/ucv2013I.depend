@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1433706975 source:c:\users\chodu baklund\documents\c++\ucv2013i\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+

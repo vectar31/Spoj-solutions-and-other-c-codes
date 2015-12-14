@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1418272187 source:c:\users\vectar\documents\c++\learning\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+
+1417704680 source:c:\users\vectar\documents\c++\learning\src\hello.cpp
+

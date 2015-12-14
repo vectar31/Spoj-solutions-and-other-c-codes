@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1418317251 source:c:\users\vectar\documents\c++\quadarea\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+

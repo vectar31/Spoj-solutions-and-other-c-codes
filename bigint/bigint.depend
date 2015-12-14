@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1433487685 source:c:\users\chodu baklund\documents\c++\bigint\main.cpp
+	<vector>
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<string>
+	<ctime>
+

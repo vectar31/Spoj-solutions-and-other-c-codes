@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1434480537 source:c:\users\chodu baklund\documents\c++\pht\main.cpp
+	<iostream>
+	<cstdio>
+	<stdio.h>
+

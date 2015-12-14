@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1433085581 source:c:\users\chodu baklund\documents\c++\lines\main.cpp
+	<iostream>
+	<algorithm>
+	<cmath>
+	<cstdio>
+

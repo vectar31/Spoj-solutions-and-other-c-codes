@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1432041579 source:c:\users\chodu baklund\documents\c++\cchess\main.cpp
+	<iostream>
+	<queue>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1425662480 source:c:\users\vectar\documents\c++\coinchange\main.cpp
+	<iostream>
+	<cstdio>
+

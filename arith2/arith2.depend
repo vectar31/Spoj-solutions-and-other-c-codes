@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1425658980 source:c:\users\vectar\documents\c++\arith2\main.cpp
+	<iostream>
+	<string>
+	<cstdio>
+	<vector>
+
+1434548803 source:c:\users\chodu baklund\documents\c++\arith2\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1418111301 source:c:\users\vectar\documents\c++\fac\main.cpp
+	<iostream>
+	<cmath>
+

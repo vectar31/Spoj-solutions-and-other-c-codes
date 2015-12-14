@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1425791972 source:c:\users\vectar\documents\c++\palin\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+

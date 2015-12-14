@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1424801402 source:c:\users\vectar\documents\c++\lgic\main.cpp
+	<iostream>
+	<cmath>
+

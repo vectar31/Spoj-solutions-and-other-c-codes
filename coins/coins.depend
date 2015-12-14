@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1425730776 source:c:\users\vectar\documents\c++\coins\main.cpp
+	<cstdio>
+	<iostream>
+	<map>
+	<algorithm>
+

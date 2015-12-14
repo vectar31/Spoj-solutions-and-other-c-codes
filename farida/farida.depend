@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1433174008 source:c:\users\chodu baklund\documents\c++\farida\main.cpp
+	<iostream>
+	<cmath>
+	<algorithm>
+

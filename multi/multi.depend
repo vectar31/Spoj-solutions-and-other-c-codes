@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1418369683 source:c:\users\vectar\documents\c++\multi\main.cpp
+	<iostream>
+	<vector>
+

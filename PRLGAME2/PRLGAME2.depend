@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1422048272 source:c:\users\vectar\documents\c++\prlgame2\main.cpp
+	<iostream>
+	<iomanip>
+

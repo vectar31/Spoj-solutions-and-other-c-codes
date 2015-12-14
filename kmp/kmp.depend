@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1433788043 source:c:\users\chodu baklund\documents\c++\kmp\main.cpp
+	<cstdio>
+	<iostream>
+	<string>
+

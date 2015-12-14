@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1422769963 source:c:\users\vectar\documents\c++\tower of hanoi\main.cpp
+	<iostream>
+	<cmath>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1433667114 source:c:\users\chodu baklund\documents\c++\countinv dnc\main.cpp
+	<iostream>
+	<cstdlib>
+

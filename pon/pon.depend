@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1425795148 source:c:\users\vectar\documents\c++\pon\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+

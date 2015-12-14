@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1421786599 source:c:\users\vectar\documents\c++\lastdig2\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1431803530 source:c:\users\chodu baklund\documents\c++\dfs\main.cpp
+	<iostream>
+	<cmath>
+	<algorithm>
+	<ctime>
+	<vector>
+	<list>
+	<queue>
+

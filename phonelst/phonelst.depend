@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1434611874 source:c:\users\chodu baklund\documents\c++\phonelst\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+

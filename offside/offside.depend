@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1421784239 source:c:\users\vectar\documents\c++\offside\main.cpp
+	<iostream>
+	<algorithm>
+

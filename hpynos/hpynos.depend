@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1421329455 source:c:\users\vectar\documents\c++\hpynos\main.cpp
+	<iostream>
+	<algorithm>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1434291692 source:c:\users\chodu baklund\documents\c++\iitkwocf\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdio>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1432219446 source:c:\users\chodu baklund\documents\c++\akvod05\main.cpp
+	<cstdio>
+	<iostream>
+	<cstdlib>
+

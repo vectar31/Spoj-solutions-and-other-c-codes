@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1432407669 source:c:\users\chodu baklund\documents\c++\djikstra\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<queue>
+	<set>
+	<cstdio>
+
